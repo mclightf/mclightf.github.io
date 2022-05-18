@@ -1,4 +1,4 @@
-Hello!
+Hello World!
 
 My name is Michael Lightfoot and I am currently pursuing a Master's Degree in Statistics at North Carolina State University. My main interests lie within the realms of Artificial Intelligence and Machine Learning, especially regarding their application to various industries ranging from healthcare to observational astronomy!
 
