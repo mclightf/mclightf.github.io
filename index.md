@@ -12,4 +12,4 @@ If you have any questions about:
 Please shoot me an email!  
 
 
-![logo](/mclightf.github.io/docs/assets/images/download.png)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrand.ncsu.edu%2Flogo%2F&psig=AOvVaw19njviAry9M-_SOtb_yi-7&ust=1653508189822000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJirjpT0-PcCFQAAAAAdAAAAABAI)
