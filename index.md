@@ -11,4 +11,4 @@ If you have any questions about:
     
 Please shoot me an email!  
 
-![logo](mclightf/mclightf.github.io/download.png)
+![logo](/mclightf.github.io/assets/download.png)
