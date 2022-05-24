@@ -9,6 +9,6 @@ If you have any questions about:
 - my current research
 - my career path
     
-Please shoot me an email!
+Please shoot me an email!  
 
 ![](/mclightf.github.io/download.png)
