@@ -5,8 +5,8 @@ My name is Michael Lightfoot and I am currently pursuing a Master's Degree in St
 This is my first blog so I hope you come along on this journey with me. I will mainly be discussing common statistical topics and questions, giving my two cents.
 
 If you have any questions about:  
-    + my topics of discussion
-    + my current research
-    + my career path
+- my topics of discussion
+- my current research
+- my career path
     
 Please shoot me an email!
