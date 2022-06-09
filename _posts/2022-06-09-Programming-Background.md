@@ -30,8 +30,8 @@ any statistician.
 
 ## Example R Markdown Output
 
-One super convenient capability of RStudio is its ability to coordinate
-with GitHub via the projects! For instance, this whole post was done in
+One convenient perk of RStudio is its ability to coordinate
+with GitHub via R projects! For instance, this whole post was done in
 RStudio. Here is a plot to show that off!
 
 ``` r
