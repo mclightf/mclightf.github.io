@@ -42,3 +42,5 @@ defaults:
       type: post
     values:
       tags: Other
+
+permalink: /:title.html
