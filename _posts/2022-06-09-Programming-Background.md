@@ -1,7 +1,7 @@
 Programming Background
 ================
 
-## QnA
+## Questions about R
 
 **What are your thoughts on R vs whatever other software you’ve used?
 What functionality do you like about R?**
@@ -11,7 +11,7 @@ you to get comfortable with markdown, and the plethora of output formats
 is very convenient.
 
 My favorite part about R is the ability to get the documentation for
-anything you need right there in your RStudio via the ? command. I also
+anything you need right there in your RStudio via the `?` command. I also
 greatly appreciate the tidyverse and all of its simple and consistent
 functionality.
 
@@ -19,7 +19,7 @@ functionality.
 
 Python has simpler syntax in some places, but more annoying syntax in
 others, so it is hard to say. I think Python is a bit more connected
-with the computer science world than R is, which is a plus for Python.
+with the computer programming world than R is, which is a plus for Python.
 
 **Do you consider R a difficult language to learn?**
 
