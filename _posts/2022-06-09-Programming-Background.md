@@ -38,4 +38,4 @@ RStudio. Here is a plot to show that off!
 plot(iris)
 ```
 
-![](/Users/michaellightfoot/Downloads/NCSU/ST%20558/mclightf.github.io/_posts/2022-06-09-Programming-Background_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](/images/unnamed-chunk-1-1.png)
