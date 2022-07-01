@@ -1,0 +1,42 @@
+My Favorite Thing in R
+================
+
+My programming skills in R are continuing to improve over time. There
+are many things I have grown like about R, but the visualization tools
+have to be my favorite.
+
+The `ggplot2` package is quite intuitive once you get used to it, as is
+the entire `tidyverse`. There are plenty of beautiful figures you can
+make, and I love the coloring mechanism within this package that allows
+for simple coloring based on a variable. One of my favorite type of
+plots to make is a stacked histogram and density plot, colored by a
+categorical variable.
+
+There is another package that I am extremely fond of as well, which is
+`corrplot`. Often times, it is hard to grasp a lot of information from
+staring at a correlation matrix full of numbers. This package makes that
+fun! Let me show you.
+
+All you need to do is create the correlation matrix as is, and then plug
+that into the `corrplot` function!
+
+``` r
+library(corrplot)
+cor <- cor(mtcars)
+corrplot(cor)
+```
+
+![](../images/unnamed-chunk-7-1.png)<!-- -->
+
+If you don’t like the circles, don’t fret! You can use squares too. You
+can also order the variables based on the angular order of the
+eigenvectors, which I think makes the plot look a lot nicer.
+
+``` r
+corrplot(cor, method = "square", order = "AOE")
+```
+
+![](../images/unnamed-chunk-8-1.png)<!-- -->
+
+I hope this convinced you to use the `corrplot` package in your next
+project!
