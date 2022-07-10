@@ -2,7 +2,7 @@
 
 Recently, I contributed to a project where we focused on an Online News Popularity Dataset from the UCI Machine Learning Repository, a dataset which you can find [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity)
 
-If you would like to take a look at the project, please find the github pages site [here](suproman98.github.io/project-2) and the associated repository [here](https://github.com/suproman98/project-2). I thought I would discuss some of my thoughts about this project.
+If you would like to take a look at the project, please find the github pages site [here](https://suproman98.github.io/project-2) and the associated repository [here](https://github.com/suproman98/project-2). I thought I would discuss some of my thoughts about this project.
 
 **What would you do differently?**
 
