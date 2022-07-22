@@ -34,7 +34,7 @@ ggplot() + geom_point(aes(x=k, y=tot.withinss)) + xlab("K (# of clusters)") +
      ylab("Total Variation of Clusters")
 ```
 
-The "elbow" looks to be at either 2 or 3 clusters. Let's go with 2 and create our **K Means Clusters**!
+The "elbow" looks to be at either 2 or 3 clusters. Let's go with 2 and create our *K Means Clusters*!
 
 ```{r, eval = T}
 library(ggplot2)
