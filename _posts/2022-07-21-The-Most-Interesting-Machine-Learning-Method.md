@@ -45,7 +45,7 @@ ggplot() + geom_point(aes(x=k, y=tot.withinss)) + xlab("K (# of clusters)") +
 ![](../images/unnamed-chunk-1-1.png)<!-- -->
 
 The “elbow” looks to be at either 2 or 3 clusters. Let’s go with 2 and
-create our **K Means Clusters**!
+create our *K Means Clusters*!
 
 ``` r
 library(ggplot2)
