@@ -2,7 +2,7 @@ Reflection about R
 ================
 
 As my statistical programming course comes to an end this summer, I
-would like to reflect on my experiences and discuss my thoughtd on R as
+would like to reflect on my experiences and discuss my thoughts on R as
 a programming language.
 
 **What your current thoughts are in terms of using R for data science -
